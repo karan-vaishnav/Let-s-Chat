@@ -1,6 +1,6 @@
 # Let's Chat 💬
 
-## overview
+## Overview
 Let's Chat is a web application to bring people and ideas "together" despite geographical barriers. It is made up of 2 applications: the client application, which runs on the user's PC, and the server application, which runs on any PC on the network.
 
 
