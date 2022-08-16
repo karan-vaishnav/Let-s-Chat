@@ -34,7 +34,6 @@ npx create-react-app lets_chat
 
 
 ## Live Application URL
-https://let-s-chat.netlify.app/
 
 
 ## Running The Project
