@@ -34,7 +34,7 @@ npx create-react-app lets_chat
 
 
 ## Live Application URL
-
+https://let-s-chat-sooty.vercel.app/
 
 ## Running The Project
 - Clone the project into local
