@@ -9,8 +9,11 @@ Let's Chat is a web application to bring people and ideas "together" despite geo
 ![image](./public/Screenshot/Screenshot-2.png)
 
 
-## Tech Used / Dependencies
+## WebFlow
+![image](./public/Screenshot/FlowChart.png)
 
+
+## Tech Used / Dependencies
 - react 
 - firebase
 - react-firebase-hooks
